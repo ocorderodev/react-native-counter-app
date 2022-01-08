@@ -3,7 +3,7 @@
 
 ### Screenshots
 
-<img src="/screenshots/AppCounter.png" width="100%" /> 
+<img src="/screenshots/AppCounter.png" width="30%" /> 
 
 ### Available Scripts
 
